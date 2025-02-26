@@ -4,12 +4,12 @@ How to use this hook
 
 Step1:
 
-`npm install use-ai-hook
+`npm install use-ai-handlers
 `
 
 Step2:
 
-    import useAI from "use-ai-hook";
+    import useAI from "use-ai-handlers";
     const ChatComponent = () => {
       const { response, loading, fetchAIResponse } = useAI("https://api.openai.com/v1/chat");
     
