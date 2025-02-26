@@ -1,0 +1,16 @@
+{
+  "name": "use-ai-hook",
+  "version": "1.0.0",
+  "description": "A custom React hook for AI interactions",
+  "main": "useAI.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/use-ai-hook.git"
+  },
+  "keywords": ["react", "custom-hook", "ai", "chatbot"],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}
