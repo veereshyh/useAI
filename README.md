@@ -3,10 +3,11 @@
 How to use this hook
 
 Step1: 
+`
 npm install use-ai-hook
-
+`
 Step2:
-
+`
 import useAI from "use-ai-hook";
 
 const ChatComponent = () => {
@@ -24,3 +25,4 @@ const ChatComponent = () => {
 };
 
 export default ChatComponent;
+`
