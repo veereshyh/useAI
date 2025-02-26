@@ -10,8 +10,8 @@ Step2:
 
 
 `
+    
     import useAI from "use-ai-hook";
-  
     const ChatComponent = () => {
       const { response, loading, fetchAIResponse } = useAI("https://api.openai.com/v1/chat");
     
